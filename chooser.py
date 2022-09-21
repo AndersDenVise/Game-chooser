@@ -10,7 +10,9 @@ games = [["Escape from tarkov", "multiplayer", "pvpve", "long"],
     ["Among us", "multiplayer", "pvp", "short"],
     ["Rainbow six siege", "multiplayer", "pvp", "medium"],
     ["Phasmophobia", "multiplayer", "pve", "medium"],
-    ["Euro truck simulator 2", "multiplayer", "driving"]]
+    ["Euro truck simulator 2", "multiplayer", "driving"],
+    ["VRChat", "multiplayer", "pvp", "long"],
+    ["Hearthstone", "multiplayer", "pvp", "short"]]
 
 # input type
 print("Hvilken type spil vil du spille")
